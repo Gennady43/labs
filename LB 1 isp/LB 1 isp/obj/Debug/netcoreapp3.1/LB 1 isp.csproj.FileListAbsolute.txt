@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\LB 1 isp\LB 1 isp\bin\Debug\netcoreapp3.1\LB 1 isp.exe
+C:\Users\admin\source\repos\LB 1 isp\LB 1 isp\bin\Debug\netcoreapp3.1\LB 1 isp.deps.json
+C:\Users\admin\source\repos\LB 1 isp\LB 1 isp\bin\Debug\netcoreapp3.1\LB 1 isp.runtimeconfig.json
+C:\Users\admin\source\repos\LB 1 isp\LB 1 isp\bin\Debug\netcoreapp3.1\LB 1 isp.runtimeconfig.dev.json
+C:\Users\admin\source\repos\LB 1 isp\LB 1 isp\bin\Debug\netcoreapp3.1\LB 1 isp.dll
+C:\Users\admin\source\repos\LB 1 isp\LB 1 isp\bin\Debug\netcoreapp3.1\LB 1 isp.pdb
+C:\Users\admin\source\repos\LB 1 isp\LB 1 isp\obj\Debug\netcoreapp3.1\LB 1 isp.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\LB 1 isp\LB 1 isp\obj\Debug\netcoreapp3.1\LB 1 isp.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\LB 1 isp\LB 1 isp\obj\Debug\netcoreapp3.1\LB 1 isp.AssemblyInfo.cs
+C:\Users\admin\source\repos\LB 1 isp\LB 1 isp\obj\Debug\netcoreapp3.1\LB 1 isp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LB 1 isp\LB 1 isp\obj\Debug\netcoreapp3.1\LB 1 isp.dll
+C:\Users\admin\source\repos\LB 1 isp\LB 1 isp\obj\Debug\netcoreapp3.1\LB 1 isp.pdb
+C:\Users\admin\source\repos\LB 1 isp\LB 1 isp\obj\Debug\netcoreapp3.1\LB 1 isp.genruntimeconfig.cache
